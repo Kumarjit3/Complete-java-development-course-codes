@@ -4,16 +4,15 @@ public class ExceptionHandling2
     {
         int n=13,i=0,result=0;
 
-        try{
+        try
+        {
         if(i==0)
         {
             throw new ArithmeticException("\nDivided By Zero Exception\n");
         }
            result = n/i;
-    }
-        catch(ArithmeticException e)
-        {
-             System.out.print("\n"+result+e+"\n");
+    } catch (ArithmeticException e) {
+             System.out.print("\n "+result+e+" \n");
         }
 
     }
