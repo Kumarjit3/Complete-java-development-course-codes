@@ -1,0 +1,1 @@
+Hyder Sir i have a doubt on a question , write a programe to show the difference between ArrayList and LinkedList , compair and display the time taken for these operations in each collection type. sir how can i find out the time that taken by those operations of LinkedList and ArrayList ? sir please clarify it.  
